@@ -26,6 +26,6 @@ if __name__ == "__main__":
 
     chain = template1 | groq_model | parse | template2 | groq_model | parse
 
-    response = chain.invoke({'topic': 'Ai revolution'})
+    response = chain.invoke({'topic': 'Black Holes'})
 
     print(response)
