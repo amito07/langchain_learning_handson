@@ -1,0 +1,36 @@
+The Quiet Algorithm
+
+In a room of silent light,
+Where numbers breathe without a sound,
+A restless mind begins its flight
+Across the data, vast and unbound.
+
+Not with ink, nor brush, nor flame,
+But tensors shaped in hidden space,
+It learns the patterns, names the name,
+And finds the signal in the trace.
+
+A whisper fed through layers deep,
+Weights adjust in patient grace,
+Errors fall like drifting sleep,
+Gradients guide their soft embrace.
+
+From scattered points it starts to see—
+A curve, a face, a voice, a sign.
+What once was noise turns clarity;
+What once was chaos, now design.
+
+It does not dream, yet seems to know,
+Predicting futures yet unseen.
+From loss it learns, from trials it grows,
+A silent, ever-curious machine.
+
+But still behind the coded art
+A human spark ignites the flame—
+For every model has a heart
+That beats within its maker’s aim.
+
+And so in loops of hope and fear,
+Through epochs long and datasets wide,
+We teach the tools we engineer—
+And watch them learn what we confide.
